@@ -1,2 +1,2 @@
 # OurCommandS
-your wish, our CommandS
+ A platform to make your thoughts a virtual reality.
